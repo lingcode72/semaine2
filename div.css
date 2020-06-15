@@ -1,0 +1,126 @@
+body{
+    font-family: monospace;
+    margin: 0px;
+    padding: 0px;
+    width: 1354px;
+    height: 900px;
+       
+}
+   .header{
+    position: absolute;
+    
+   }
+
+.head{
+    padding:10px;
+    background-color: chartreuse;
+    border-radius: 1em;
+    font-weight: bold; 
+    width: 1354px;
+    height: 80px;
+}
+
+.nav{  
+    position: absolute;
+   
+}
+.p1{
+    font-size: 24px;
+    color: palevioletred;
+    text-align: center;
+    margin-top: 10px;
+           
+}
+#Logo{
+    position: absolute;
+    text-align: left;
+    background-color: chartreuse;
+    width: 50px;
+    height: 50px;
+    }
+a{
+    text-align: center;
+    margin: 100px;
+    text-decoration: none;
+    font-size: 16px;
+
+}
+
+section{
+   position: absolute;
+    width: 800px;
+    height:600px;
+}
+
+h2{
+    font-size: 32px;
+    color: purple;
+
+}
+.produits{
+    width: 900Px;
+    height: 200px;
+    display: inline-block;
+
+}
+.panier{
+    display: inline-block;
+    width: 250px;
+    height: 250px;
+    padding:2px;
+    margin: 10px;;
+
+}
+img{
+    display: inline-block;
+    
+}
+
+h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+    font-size: 24px;
+    color: violet;
+
+}
+.p3{
+font-size: 16px;
+font-style: italic;
+color: green;
+}
+
+
+.p4{
+    font-size: 24px;
+    font-weight: bold;  
+}
+.p5{
+    font-size: 1em;
+    width: 250px;
+    height: 150px;
+} 
+
+.aside{
+position: absolute;
+top:100px;
+right:0px;
+left:800px;
+bottom: 30px;
+
+}
+
+.cote{
+    widows: 574px;
+    height: 600px;
+}
+    
+    .footer{
+        position: absolute;
+        top: 10px;
+        bottom: 0px;
+        width: 1374px;
+        height: 30px;
+        right:50px;
+        text-align: center;
+        font-style: italic;
+    }
+
